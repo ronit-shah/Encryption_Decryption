@@ -20,4 +20,4 @@ About the Code
 Contributors
 ---
 1. 
-2. https://github.com/ronit-shah
+2. https://ronit-shah.github.io/

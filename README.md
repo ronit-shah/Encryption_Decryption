@@ -7,6 +7,9 @@ Application of Linear Algebra
 ---
 Concepts like matrix multiplication, determinants, inverse matrix were used in this project
 
+Features
+---
+
 About the Code
 ---
 
@@ -14,3 +17,5 @@ About the Code
 * External Libraries  
   *  
  
+Contributors
+---
